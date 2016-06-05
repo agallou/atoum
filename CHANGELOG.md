@@ -1,5 +1,8 @@
 # `dev-master`
 
+* [#604](https://github.com/atoum/atoum/pull/604) Add a `addConfigurationCallable` method on the runner to allow extenion to register themselves ([@jubianchi], [@agallou])
+* [#604](https://github.com/atoum/atoum/pull/604) Add a `getExtension` method on the runner to configure an already loaded extension ([@jubianchi], [@agallou])
+
 # 2.7.0 - 2016-06-20
 
 * [#594](https://github.com/atoum/atoum/pull/594) Add telemtry report to CI builds ([@jubianchi])
