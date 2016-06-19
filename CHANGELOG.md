@@ -3,6 +3,8 @@
 * [#605](https://github.com/atoum/atoum/pull/605) Automatically include Composer's autoloader if it exists ([@jubianchi], [@agallou])
 * [#605](https://github.com/atoum/atoum/pull/605) Handle `.autoloader.atoum.php` files to define tests autoloader ([@jubianchi])
 * [#605](https://github.com/atoum/atoum/pull/605) Add the `--autoloader-file`/`-af` CLI argument to define which autoloader file to user ([@jubianchi])
+* [#604](https://github.com/atoum/atoum/pull/604) Add a `addConfigurationCallable` method on the runner to allow extenion to register themselves ([@jubianchi], [@agallou])
+* [#604](https://github.com/atoum/atoum/pull/604) Add a `getExtension` method on the runner to configure an already loaded extension ([@jubianchi], [@agallou])
 
 # 2.7.0 - 2016-06-20
 
